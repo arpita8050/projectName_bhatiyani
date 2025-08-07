@@ -1,0 +1,15 @@
+DESCRIPTION
+
+This web-based platform allows users to pitch their startup ideas, explore others' ideas, and engage with them by liking or commenting. It promotes creativity, networking, and feedback among aspiring entrepreneurs. Key features include a top-5 ideas section, detailed idea pages, a Netflix-style idea slider, and a motivational quote section. It also supports user authentication, a responsive dark/light theme, and an intuitive UI across devices.
+Key Features:
+* Submit, like, and comment on startup ideas
+* Top 5 trending ideas highlighted
+* Dark/light mode toggle with persistence
+* Responsive UI for all devices
+* Authentication system for secure user interaction
+Tech Stack:
+* Frontend: React.js
+* Backend: Django (Python)
+* Database: Likely SQLite or PostgreSQL (based on Django)
+* Deployment: Vercel
+
