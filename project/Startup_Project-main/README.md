@@ -120,5 +120,5 @@ startup-pitch-platform/
 
 ## Author
 
-**Adarsh Sharma**
+**Arpita kognur**
  
